@@ -98,7 +98,7 @@ Some banks show higher failure rates than others.
 Transaction validation checks ensure wallet balance consistency.
 SQL window functions help identify revenue leaders and trends.
 
-Project Objective
+Project Objective:
 This project demonstrates SQL-based data analysis skills including:
 Data exploration
 Business problem solving
